@@ -1,0 +1,17 @@
+Pages\RegisterCompletePage.class
+Pages\ShoppingCartPage.class
+Pages\ColouredResultsPage.class
+Pages\TagResultsPage.class
+Pages\ItemPage.class
+Pages\HomePage$SubCategories.class
+Pages\ProductComparisonPage.class
+Pages\CheckoutPage.class
+Pages\HomePage.class
+Pages\SearchPage.class
+Pages\WishlistPage.class
+Pages\CheckoutCompletedPage.class
+Pages\ProductListPage.class
+Pages\ResultsPage.class
+Pages\RegistrationPage.class
+Pages\LoginPage.class
+Pages\PasswordRecoveryPage.class

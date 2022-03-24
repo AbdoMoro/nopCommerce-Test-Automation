@@ -1,0 +1,11 @@
+stepDefinitions\CheckoutStepDefinition.class
+stepDefinitions\LoginStepDefinition.class
+stepDefinitions\RegistrationStepDefinition.class
+stepDefinitions\FilterStepDefinition.class
+stepDefinitions\TagStepDefinition.class
+stepDefinitions\SearchStepDefinition.class
+runners\TestRunner.class
+stepDefinitions\BaseStepDefinition.class
+stepDefinitions\ProductListStepDefinition.class
+stepDefinitions\CurrenciesStepDefinition.class
+stepDefinitions\CategoryStepDefinition.class
